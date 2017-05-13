@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.api-request"
         version   = "1.0.0">
-    <name>API Demo 3</name>
-    <description>API Demo 3</description>
+    <name>API Demo 2</name>
+    <description>API Demo 2</description>
     <icon src="img/uic.jpg" />
 </widget>
